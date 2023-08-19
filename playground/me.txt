@@ -1,0 +1,5 @@
+{{#user}}
+Name: Pavan Dev L
+Skills: HTML, CSS, JS, Python, Java, AI, Machine Learning
+Email: pavandevl200304@gmail 
+{{/user}}
